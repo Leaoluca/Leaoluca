@@ -9,6 +9,8 @@ Meu nome é Lucas Leão Fernandes
 
    Você pode entrar em contato comigo:
 📫 fernandesleao@prof.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/D6P7ayaAqY0AAAAd/the-chosen-os-escolhidos.gif)
    
 <!--
 **Leaoluca/Leaoluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
