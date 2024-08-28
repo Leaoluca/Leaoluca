@@ -1,8 +1,18 @@
-## Hi there 👋
+## Olá! Seja bem vindo! 👋
 
+Meu nome é Lucas Leão Fernandes
+
+- 🔭Eu sou Professor de Tecnologia 
+- ⚡Estamos estudando no Alura
+- 💬Estamos se desenvolvendo na linguagem Javascript
+ - 🤔Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+   Você pode entrar em contato comigo:
+📫 fernandesleao@prof.educacao.sp.gov.br
+   
 <!--
 **Leaoluca/Leaoluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Meu nome é Lucas Leão Fernandes
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
